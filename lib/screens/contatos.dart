@@ -5,7 +5,7 @@ class ListaContatos extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Contatots'),
+        title: Text('Contatos'),
       ),
       body: ListView(
         children: [
